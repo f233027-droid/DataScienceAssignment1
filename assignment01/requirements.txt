@@ -1,0 +1,16 @@
+pyspark
+pyarrow
+requests
+beautifulsoup4
+geopandas
+shapely
+streamlit
+plotly
+folium
+scikit-learn
+python-dotenv
+openmeteo-requests
+requests-cache
+retry_requests
+pandas
+numpy
